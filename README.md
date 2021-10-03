@@ -15,4 +15,9 @@ The datafile itself is too big to upload to BitHub
 <hr><br>
 
 ## Deliverable 2
-Coming soon 
+ 
+Status - In Progress
+
+Here is the link to the first Workbook in the Tableau visualization <br>
+https://public.tableau.com/views/BikeshareStats/CheckoutTimesforUsers
+
