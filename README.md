@@ -59,7 +59,12 @@ Here is the image for heatmap "Starttime by Hour"
  ![image](https://user-images.githubusercontent.com/86205000/135785781-caf65cde-908b-407d-9259-c3ed6c1522eb.png)
 
  
+ Here is the image for heatmap "Starttime by Hour and Gender" - it looks almost the same as the previous heat map except Gender has been added as a filter. 
+The image shows how it looks in Tableu Public as part of the story.  The filters work as intended except for the gender labels being numeric as mentioned above. 
  
+ ![image](https://user-images.githubusercontent.com/86205000/135786622-2dc884c7-a4ec-4ed6-94a9-6aa47686119f.png)
+
+ That is why in the story I added additional text boxes to explain the gender filter options.  Another issue I had was I could not figure out how to get the male and female heatmaps to appear side by side, so I added the gender filter to the right side to allow the user to select which gender they want to see.  
  
  
  
